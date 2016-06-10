@@ -5,8 +5,8 @@ return [
         'prefix' => '[Contact Form]'
     ],
     'emails' => [
-        'to'   => '',
-        'from' => ''
+        'to'   => 'stefanie@lumenlab.asia',
+        'from' => 'hello.sohpingting@gmail.com'
     ],
     'messages' => [
         'error'   => 'There was an error sending, please try again later.',
